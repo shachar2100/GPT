@@ -1,4 +1,4 @@
-# Let's Build GPT
+# GPT
 
 This project is based on the YouTube video "**Let's build GPT: from scratch, in code, spelled out.**" by Andrej Karpathy. It provides a step-by-step implementation of a Generative Pre-trained Transformer (GPT)-like language model from scratch using Python and PyTorch, mirroring the development process shown in the video [1].
 
